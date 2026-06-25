@@ -8,9 +8,6 @@
 
 
 ```
-
-
-```python
 # このプログラムは python3用です。
 # あらかじめ pip install pillow で pillow をインストールしておきます。
 from PIL import Image
